@@ -2,4 +2,4 @@ presentes
 livros
 verduras
 chocolate
-arroz
+frutas
